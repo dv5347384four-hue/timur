@@ -8,7 +8,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # --- КОНФИГУРАЦИЯ ---
 # Вставьте свой токен сюда (в кавычках)
-API_TOKEN = "8313078746:AAF17WjfNsV-PK9TQX41hdeuO5G8vDV5pAM"
+API_TOKEN = "8501713967:AAFH3WqvDZN_xWL6EKVXiAhjQNdy9nZHpeE"
 
 # Вставьте свой ID цифрами (без кавычек)
 ADMIN_ID = 5085599029

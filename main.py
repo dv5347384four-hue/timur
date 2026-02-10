@@ -11,7 +11,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 API_TOKEN = "8313078746:AAF17WjfNsV-PK9TQX41hdeuO5G8vDV5pAM"
 
 # Вставьте свой ID цифрами (без кавычек)
-ADMIN_ID = 6774558397 
+ADMIN_ID = 5085599029
 
 # --- НАСТРОЙКА ---
 logging.basicConfig(level=logging.INFO)
